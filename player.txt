@@ -1,0 +1,6 @@
+anas		nouri		0	0	0	0	0		4		1
+rany		essalah		0	0	0	0	0		4		1
+anas		chagour		0	0	0	0	0		4		1
+farouk		ezzeddini		0	0	0	0	0		4		1
+hajer		marsaoui		0	0	0	0	0		4		1
+syrine		guizani		0	0	0	0	0		4		1
